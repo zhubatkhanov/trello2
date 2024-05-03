@@ -1,0 +1,8 @@
+venv
+db.sqlite3
+.pytest_cache
+api/__pycache__/
+api/migrations/
+core/__pycache__/
+test_api/__pycache__/
+test_api/.pytest_cache/
